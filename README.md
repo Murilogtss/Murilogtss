@@ -1,6 +1,6 @@
 ###  Hey, I'm Murilo Leite! 🖐️
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/murilo-leite-3382251b6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-leite-3382251b6)
 
 ##  🛠  Tech Stack
 
