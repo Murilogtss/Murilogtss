@@ -1,10 +1,10 @@
-###  Hey, I'm Murilo Leite! 🖐️
+### Hey, I'm Murilo Leite! 🖐️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-leite-3382251b6)
 
-##  🛠  Tech Stack
+## 🛠 Tech Stack
 
-### 💻  Front-end:
+### 💻 Front-end:
 
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TYPESCRIPT" />
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 </div>
 
-### ⚙️  Back-end e banco de dados:
+### ⚙️ Back-end and Database:
 
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NODEJS" />
